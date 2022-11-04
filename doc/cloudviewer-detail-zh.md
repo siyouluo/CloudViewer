@@ -163,7 +163,7 @@ PCL库中提供了非常强大的点云处理功能。在CloudViewer中，实现
 
 仅实现了球体的生成。球体生成效果如下图所示：
 
-<img src="img/创建球体.png" width="600">
+<img src="../img/创建球体.png" width="600">
 
 
 
